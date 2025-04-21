@@ -12,3 +12,7 @@ A desktop application built using Python, Tkinter, Pandas, and Matplotlib to man
 1. Clone the repo
 2. Install requirements (if any)
 3. Run `python app.py`
+
+
+
+
