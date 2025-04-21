@@ -15,4 +15,5 @@ A desktop application built using Python, Tkinter, Pandas, and Matplotlib to man
 
 
 
+![Screenshot 2025-04-21 185137](https://github.com/user-attachments/assets/26e9a364-7e76-43a8-8d6c-082cb49a212c)
 
